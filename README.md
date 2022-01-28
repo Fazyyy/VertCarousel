@@ -2,4 +2,4 @@
 
 ### A Javascript based vertical fullscreen carousel
 
-[View here](jsvertcarousel)
+[View here](https://jsvertcarousel.netlify.app/)
